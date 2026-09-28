@@ -1,0 +1,6 @@
+Copyright (c) 2026 Douniazed Louafi. All rights reserved.
+
+"English A1+ / A2 Bridge" and "My English Adventure" (the HTML coursebooks in this folder) are original
+works of the author. They are included so the application can be demonstrated. You may view them, but you
+may not copy, redistribute, adapt or sell them without written permission.
+The MIT license in the repository root applies to the source code only.
